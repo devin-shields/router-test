@@ -1,0 +1,11 @@
+nav {
+  margin: 0;
+  padding: 0;
+}
+
+nav .active {
+  text-decoration: none;
+  background-color: #444;
+  border-bottom: 3px solid #ccc;
+  font-weight: bold;
+}
